@@ -1,0 +1,8 @@
+{
+  "name": "MyProjectIonic",
+  "app_id": "3198dde8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
